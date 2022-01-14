@@ -1,0 +1,9 @@
+.carousel-item {
+    height: 80vh;
+    min-height: 350px;
+    background: no-repeat center center scroll;
+}
+
+  .custom-logo {
+      height: 70px;
+  }
